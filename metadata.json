@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Expense Tracker",
+  "description": "Catat pengeluaran otomatis lewat bot Telegram menggunakan AI Vision OCR & pantau lewat dashboard modern.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
